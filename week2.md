@@ -58,7 +58,8 @@ GitHub exercise
 					ImportantEcolTopics.txt
 				Evolution/
 					ImportantEvolTopics.txt
-					Phylogenetics/```
+					Phylogenetics/
+```
 
 - [ ] The Unix root (/)
 	- The very base of the filesystem
