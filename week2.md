@@ -185,6 +185,6 @@ First Command-Line Exercise (add commands run as notes as you go)
 6. Now, __carefully__ delete the Cell Biology folder and any files it contains.
 7. Using `history`, a pipe, and `tail`, create a file (`myCommands.txt`) that shows the history of commands you ran for steps 1-6.
 8. On GitHub, fork the `week2` repository.
-9. In your fork, create a folder with your name in the `week2Assignments` folder.
-10. Inside the folder with your name, put 3 files: (1) Your phylogenetic fact file and (2) the BioContents.txt file, and (3) the myCommands.txt file.
+9. On your computer, create a folder with your name and put the entire Biology directory hierarchy inside it.
+10. While looking at your fork of `week2` on GitHub, go to the `week2Assignments` folder, click the `Upload files` button in the upper right, then upload the directory with your name by dragging and dropping. Add a commit message and commit the new files and directories.
 11. After committing the new files, submit a pull request to the class page.
