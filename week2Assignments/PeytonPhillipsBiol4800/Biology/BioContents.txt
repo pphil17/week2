@@ -1,0 +1,106 @@
+total 16
+drwxrwxr-x 3 compbio compbio 4096 Aug 31 09:21 ./
+drwxr-xr-x 5 compbio compbio 4096 Aug 31 09:04 ../
+-rw-r--r-- 1 compbio compbio    0 Aug 31 09:21 BioContents.txt
+drwxrwxr-x 3 compbio compbio 4096 Aug 31 08:57 Cellbiology/
+-rw-rw-r-- 1 compbio compbio   14 Aug 31 09:03 README.txt
+    1  curl -sL https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
+    2  sudo apt install curl
+    3  curl -sL https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add -
+    4  sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
+    5  sudo apt-get update
+    6  sudo apt-get install atom
+    7  cd .
+    8  /lsls 
+    9  / ls
+   10  cd
+   11  cd ..
+   12  ..
+   13  cd / 
+   14  cd /
+   15  cd pwd
+   16  cd /home
+   17  cd /home/compbio/desktop
+   18  /
+   19  .
+   20  ..
+   21  cd /home/compbio/Desktop
+   22  cd Desktop/Biology/Evolution/Phylogenetics
+   23  ls
+   24  mkdir
+   25  touch week2.md.txt
+   26  cat week2.md.html
+   27  cat homework.txt
+   28  cat homework.txt Preview
+   29  mkdir homewrok.txt
+   30  mkdir homework.txt
+   31  cd /phylogenetics
+   32  nano
+   33  ~/Documents
+   34  mkdir compbiol
+   35  ls
+   36  cd /Phylogenetics
+   37  cd ..
+   38  cd compbiol/Phylogenetics
+   39  cd /Phylogenetics
+   40  ls
+   41  ls 
+   42  mkdir compbiol
+   43  mkdir compbiol2
+   44  cd ../Phylogenetics
+   45  cd Desktop
+   46  ls Desktop
+   47  /compbio@ubuntu/home/Desktop
+   48  ls compbiol
+   49  cd /home/Desktop/CellBiology/Evolution/Phylogenetics
+   50  /Home/Desktop/Cellbiology/Evolution/Phylogenetics
+   51  ls /Home/Desktop/compbiol
+   52  mkdir CompBiol
+   53  mkdir compbiol
+   54  mkdir homework
+   55  /Home/Desktop/compbiol
+   56  ls
+   57  cd /Phylogenetics
+   58  cd /compbiol/Desktop/CellBiology/Evolution/Phylogenetics
+   59  ls
+   60  /Desktop/CellBiology/Evolution/Phylogenetics
+   61  /Phylogenetics
+   62  /Cellbiology
+   63  /Desktop
+   64  /Home/Desktop
+   65  /Cellbiology
+   66  cd desktop
+   67  cd Desktop
+   68  cd /Desktop/Cellbiology/Evolution/Phylogenetics
+   69  /
+   70  cd /Desktop
+   71  ls /Desktop
+   72  ls /Desktop/compbiol
+   73  pwd
+   74  ~Desktop/Cellbiology
+   75  ~/Desktop/Cellbiology/
+   76  cd ~/Desktop/Cellbiology/Evolution/Phylogenetics
+   77  cd /Desktop/Cellbiology/Evolution/Phylogenetics
+   78  nano
+   79  cd Biology/
+   80  cd Desktop/Biology
+   81  ~/Desktop/Biology/Cellbiology/Evolution/Phylogenetics
+   82  cd Biology/
+   83  cd Biology
+   84  Desktop/Biology/
+   85  ~?Home/Desktop/Biology/Cellbiology/Evolution/Phylogenetics
+   86  ~/Home/Desktop/Biology/Cellbiology/Evolution/Phylogenetics
+   87  ls
+   88  ll 
+   89  ls -l  
+   90  echo ll >> BioContent.txt
+   91  ll
+   92  echo >> BioContents.txt
+   93  touch BioContents.txt
+   94  ls -l 
+   95  >> BioContents.txt
+   96  echo ll
+   97  ll
+   98  echo >> BioContents.txt
+   99  rm -r Cellbiology
+  100  history | tail -n 100 >> BioContents.txt
